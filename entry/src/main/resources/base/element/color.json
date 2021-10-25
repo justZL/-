@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "ic_advertise",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "textColor_tertiary_inverse",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_background",
+      "value": "#99CCFF"
+    },
+    {
+      "name": "copyright_text_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "app_title_text_color",
+      "value": "#78b6f2"
+    },
+    {
+      "name": "image_area",
+      "value": "#DCDCDC"
+    },
+    {
+      "name": "appbar_title_color",
+      "value": "#6699CC"
+    },
+    {
+      "name": "appbar_subtitle_color",
+      "value": "#99CCFF"
+    },
+    {
+      "name": "colorSubBackground",
+      "value": "#f1f3f5"
+    },
+    {
+      "name": "colorTabTextNormal",
+      "value": "#69000000"
+    },
+    {
+      "name": "list_divider_color",
+      "value": "#33000000"
+    },
+    {
+      "name": "primary_color",
+      "value": "#007dff"
+    },
+    {
+      "name": "primary_default",
+      "value": "#000000"
+    },
+    {
+      "name": "title_layout_background_color",
+      "value": "#F2FFFFFF"
+    },
+    {
+      "name": "title_text_color",
+      "value": "#E6000000"
+    },
+    {
+      "name": "bottom_bar_background_color",
+      "value": "#F2FAFAFA"
+    },
+    {
+      "name": "item_divider_color",
+      "value": "#aaaaaa"
+    }
+  ]
+}

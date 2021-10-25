@@ -1,0 +1,179 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "神奇动物在这里"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "back",
+      "value":"撤回"
+    },
+    {
+      "name": "send",
+      "value": "发送"
+    },
+    {
+      "name": "title",
+      "value":"本地绘图"
+    },
+    {
+      "name": "shareDevice",
+      "value":"选择共享设备"
+    },
+    {
+      "name": "cancels",
+      "value":"取消"
+    },
+    {
+      "name": "yes",
+      "value":"确定"
+    },
+    {
+      "name": "advertise",
+      "value": "Ads"
+    },
+    {
+      "name": "copyright",
+      "value": "创造，从这里开始"
+    },
+    {
+      "name": "drawability_description",
+      "value": "Java_Draw Ability"
+    },
+    {
+      "name": "loginability_description",
+      "value": "Java_Login Ability"
+    }
+    ,
+    {
+      "name": "splashscreenability_description",
+      "value": "Java_Splash Screen Ability"
+    },
+    {
+      "name": "hello",
+      "value": "Hello world"
+    },
+
+    {
+      "name": "mail",
+      "value": "邮箱"
+    },
+    {
+      "name": "invalid_mail",
+      "value": "Invalid mail"
+    },
+    {
+      "name": "password",
+      "value": "密码"
+    },
+    {
+      "name": "invalid_length_password",
+      "value": "Invalid length password"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "help",
+      "value": "帮助"
+    },
+    {
+      "name": "privateText",
+      "value": "隐私设置"
+    },
+    {
+      "name": "clickedHelp",
+      "value": "男儿当自强=^="
+    },
+    {
+      "name": "clickedPrivate",
+      "value": "You clicked Private"
+    },
+    {
+      "name": "success",
+      "value": "SUCCESS"
+    },
+    {
+      "name": "loginSuccess",
+      "value": "Login Success"
+    },
+    {
+      "name": "fail",
+      "value": "FAIL"
+    },
+    {
+      "name": "loginFail",
+      "value": "Error mail or password"
+    },
+
+    {
+      "name": "title_text",
+      "value": "Title"
+    },
+    {
+      "name": "title_item_description",
+      "value": "Title Button"
+    },
+    {
+      "name": "top_first_item_description",
+      "value": "First Button"
+    },
+    {
+      "name": "top_second_item_description",
+      "value": "Second Button"
+    },
+    {
+      "name": "top_third_item_description",
+      "value": "Third Button"
+    },
+    {
+      "name": "Double_line_list_item",
+      "value": "Double-line list item"
+    },
+    {
+      "name": "Auxiliary_text",
+      "value": "Auxiliary text"
+    },
+    {
+      "name": "Right_text",
+      "value": "Right text"
+    },
+    {
+      "name": "Operation1",
+      "value": "收藏"
+    },
+    {
+      "name": "Operation2",
+      "value": "关注"
+    },
+    {
+      "name": "Operation3",
+      "value": "Operation3"
+    },
+    {
+      "name": "Operation4",
+      "value": "Operation4"
+    },
+    {
+      "name": "Operation5",
+      "value": "Operation5"
+    },
+    {
+      "name": "skip",
+      "value": "跳过"
+    },
+    {
+      "name": "job",
+      "value": "看看谁的想象力更丰富！！"
+    }
+  ]
+}
